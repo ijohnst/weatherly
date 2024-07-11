@@ -7,7 +7,7 @@ This React application fetches and displays weather information based on user in
 ![](./screenshot.png)
 
 ### Live Site URL
-[https://ijohnst.github.io/weatherly/](https://ijohnst.github.io/weatherly/)
+[https://earnest-frangollo-f682d3.netlify.app/](Live Site)
 
 ## Features
 
