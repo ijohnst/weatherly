@@ -7,7 +7,7 @@ This React application fetches and displays weather information based on user in
 ![](./screenshot.png)
 
 ### Live Site URL
-[https://ijohnst.github.io/fe-mentor-time-tracking-dashboard/](https://ijohnst.github.io/fe-mentor-time-tracking-dashboard/)
+[https://ijohnst.github.io/weatherly/](https://ijohnst.github.io/weatherly/)
 
 ## Features
 
